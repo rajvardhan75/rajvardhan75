@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-## Hi there, I'm Raj Vardhan Singh👋
+# Hi there, I'm Raj Vardhan Singh👋
 
 I'm a passionate developer interested in web development, machine learning and open-source projects. I love to create and contribute to projects that make a difference.
 
@@ -30,4 +30,4 @@ I'm a passionate developer interested in web development, machine learning and o
 ---
 [![](https://visitcount.itsvg.in/api?id=rajvardhan75&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Thank you for visiting my profile! Have a great day 😊
