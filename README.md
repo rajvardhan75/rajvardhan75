@@ -1,4 +1,9 @@
-                                                                                Hello
+# Welcome to My GitHub Profile!
+
+## Hi there, I'm Raj Vardhan Singh👋
+
+I'm a passionate developer interested in web development, machine learning and open-source projects. I love to create and contribute to projects that make a difference.
+
 # 💫 About Me:
 🔭 I’m currently working on small paid projects<br>👯 I’m looking to collaborate on Web Development<br>🤝 I’m looking for help with flutter<br>🌱 I’m currently learning Flutter, Python<br>💬 Ask me about web development<br>⚡ Fun fact <br>📫 How to reach me: raj2006.vs@gmail.com<br>📄 Know about my experiences: Collaborated on projects and also attended tons of hackathons.
 
