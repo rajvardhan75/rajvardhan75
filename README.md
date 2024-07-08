@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on small paid projects<br>👯 I’m looking to collaborate on Web Development<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Flutter<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on small paid projects<br>👯 I’m looking to collaborate on Web Development<br>🤝 I’m looking for help with flutter<br>🌱 I’m currently learning Flutter,Python<br>💬 Ask me about web development<br>⚡ Fun fact <br>📫 How to reach me: raj2006.vs@gmail.com<br>📄 Know about my experiences: Collaborated on projects and also attended tons of hackathons.
 
 
 ## 🌐 Socials:
